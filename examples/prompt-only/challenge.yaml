@@ -1,0 +1,26 @@
+challenge_version: "2.0"
+
+agent:
+  module: "src.agent"
+  class: "PromptOnlyAgent"
+
+runtime:
+  python: "3.11"
+
+artifact:
+  format: "directory"
+
+inference:
+  batch_size: 1
+
+# Example only: confirm this base model is allowed by the active organizer policy.
+base_model: "llama-3.1-8b"
+
+# For live local runs, add accessible service names from your workspace:
+# models:
+#   base:
+#     id: "llama-3.1-8b"
+#     service: "<your_catalog>.<your_schema>.<your_base_service>"
+#   teacher:
+#     id: "claude-sonnet-4-5"
+#     service: "<your_catalog>.<your_schema>.<your_teacher_service>"

@@ -1,0 +1,7 @@
+include:
+  - project: "mlmodels/tamu-2026-shared/tamu-2026-ci"
+    ref: v2
+    file: "/.gitlab/ci/participant-validate.yml"
+
+stages:
+  - validate

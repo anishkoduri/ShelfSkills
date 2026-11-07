@@ -1,0 +1,24 @@
+challenge_version: "2.0"
+inference:
+  batch_size: 1
+
+agent:
+  module: "src.agent"
+  class: "ParticipantAgent"
+
+runtime:
+  python: "3.11"
+
+artifact:
+  format: "directory"
+
+# Optional local model services for experimentation. IDs must match the organizer's allowed models.
+# Service names route local `dev-run` calls in your workspace; official runs use the released policy.
+# models:
+#   teacher:
+#     id: "<allowed teacher id>"
+#     service: "<teacher service in your workspace>"
+#     api: responses
+#   base:
+#     id: "<allowed base id>"
+#     service: "<base service in your workspace>"

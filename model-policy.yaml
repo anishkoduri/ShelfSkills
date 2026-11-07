@@ -1,0 +1,39 @@
+# Public model and credit policy copied from the organizer's 0.2.14 governance configuration.
+# Gateway service names are intentionally omitted: local runs use the services in challenge.yaml.
+# Do not add credentials, workspace IDs, or endpoint secrets to this file.
+models:
+  default_teacher: claude-sonnet-4-5
+  teacher:
+    - id: claude-sonnet-4-5
+      input_token: 0.1
+      output_token: 0.1
+      max_output_tokens: 1024
+    - id: qwen3-next-80b-a3b
+      input_token: 0.0015
+      output_token: 0.0015
+      max_output_tokens: null
+  base:
+    - id: llama-3.1-8b
+      input_token: 0.0005
+      output_token: 0.0005
+      max_output_tokens: null
+    - id: gemma-3-12b
+      input_token: 0.001
+      output_token: 0.001
+      max_output_tokens: null
+    - id: qwen3-next-80b-a3b
+      input_token: 0.0015
+      output_token: 0.0015
+      max_output_tokens: null
+scoring:
+  pricebook: event-v3
+  compute_second: 1.0
+  holdout_sample_size: null
+  composite:
+    version: composite-v1
+    weights:
+      q: 0.6
+      e: 0.2
+      l: 0.2
+    e_reference: 4.0
+    l_reference: 10.0
