@@ -1,0 +1,60 @@
+{
+  "validation_products": 202,
+  "learned_q": 0.8498269896193772,
+  "literal_q": 0.4661764705882353,
+  "empty_q": 0.0,
+  "learned_counts": {
+    "true_positive": 614,
+    "false_positive": 98,
+    "false_negative": 119
+  },
+  "literal_counts": {
+    "true_positive": 317,
+    "false_positive": 310,
+    "false_negative": 416
+  },
+  "evidence_scope": "Weights fit on the experiment products outside this split. The saved bank is refit on every experiment product and is not this number.",
+  "rules": [
+    {
+      "attribute_id": "A900201",
+      "feature": "read:sweet_plant",
+      "value": "Plant-Based Sweetener"
+    }
+  ],
+  "selection": {
+    "modes": {
+      "A100970": "cue",
+      "A101614": "short",
+      "A900401": "short",
+      "A100190": "short",
+      "A900201": "cue",
+      "A100196": "short",
+      "A102220": "short",
+      "A102506": "long",
+      "A900301": "long",
+      "A101571": "short",
+      "A101897": "long",
+      "A102246": "short",
+      "A100334": "cue",
+      "A101209": "short",
+      "A101643": "long",
+      "A101644": "short",
+      "A102531": "cue",
+      "A900101": "cue"
+    },
+    "q_during_selection": 0.8498269896193772,
+    "rules": 1
+  },
+  "learning_seconds": 126.4,
+  "holdout": {
+    "q": 0.8244118649846573,
+    "true_positive": 1209,
+    "false_positive": 243,
+    "false_negative": 272,
+    "validity_rate": 1.0,
+    "missing_products": 0,
+    "holdout_products": 415,
+    "dataset_version": "synth_v6_full",
+    "scorer_version": "holdout-eval-q-v1"
+  }
+}
