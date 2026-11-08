@@ -1,12 +1,12 @@
 {
   "validation_products": 202,
-  "learned_q": 0.8498269896193772,
+  "learned_q": 0.8908716540837337,
   "literal_q": 0.4661764705882353,
   "empty_q": 0.0,
   "learned_counts": {
-    "true_positive": 614,
-    "false_positive": 98,
-    "false_negative": 119
+    "true_positive": 649,
+    "false_positive": 75,
+    "false_negative": 84
   },
   "literal_counts": {
     "true_positive": 317,
@@ -19,6 +19,185 @@
       "attribute_id": "A900201",
       "feature": "read:sweet_plant",
       "value": "Plant-Based Sweetener"
+    },
+    {
+      "attribute_id": "A100196",
+      "feature": "read:soda_diet_or_sweetener",
+      "value": "Diet",
+      "drop": "Cane & Real Sugar"
+    },
+    {
+      "attribute_id": "A101571",
+      "feature": "read:bakery_seed",
+      "value": "Seeds"
+    },
+    {
+      "attribute_id": "A101571",
+      "feature": "read:bakery_garlic",
+      "value": "Garlic"
+    },
+    {
+      "attribute_id": "A101643",
+      "feature": "read:top_fruit_piece",
+      "value": "Fruit Mixed In",
+      "when": "Fruit Flavored"
+    },
+    {
+      "attribute_id": "A101644",
+      "feature": "read:mix_fruit_piece",
+      "value": "Fruit"
+    },
+    {
+      "attribute_id": "A100334",
+      "feature": "read:yogurt_probiotic",
+      "value": "Probiotic & Functional"
+    },
+    {
+      "attribute_id": "A102531",
+      "feature": "read:yogurt_lowfat",
+      "value": "Low & Reduced Fat"
+    },
+    {
+      "attribute_id": "A102220",
+      "feature": "read:loaf_sourdough",
+      "value": "Sourdough"
+    },
+    {
+      "attribute_id": "A102246",
+      "feature": "read:roll_brioche",
+      "value": "Brioche"
+    },
+    {
+      "attribute_id": "A101571",
+      "feature": "read:bakery_oat",
+      "value": "Oats"
+    },
+    {
+      "attribute_id": "A100190",
+      "feature": "read:soda_fruit_name",
+      "value": "Fruit"
+    },
+    {
+      "attribute_id": "A101643",
+      "feature": "read:flavor_bottom",
+      "value": "Fruit on the Bottom"
+    },
+    {
+      "attribute_id": "A100196",
+      "feature": "read:soda_zs",
+      "value": "Diet"
+    },
+    {
+      "attribute_id": "A100334",
+      "feature": "read:yogurt_drinkable",
+      "value": "Drinkable"
+    },
+    {
+      "attribute_id": "A100334",
+      "feature": "read:yogurt_french",
+      "value": "French"
+    },
+    {
+      "attribute_id": "A102531",
+      "feature": "read:yogurt_fatfree",
+      "value": "Fat Free"
+    },
+    {
+      "attribute_id": "A101614",
+      "feature": "read:cereal_only_oat",
+      "value": "Oat",
+      "drop": "Multiple"
+    },
+    {
+      "attribute_id": "A101614",
+      "feature": "read:cereal_only_corn",
+      "value": "Corn",
+      "drop": "Multiple"
+    },
+    {
+      "attribute_id": "A101614",
+      "feature": "read:cereal_only_wheat",
+      "value": "Wheat",
+      "drop": "Multiple"
+    },
+    {
+      "attribute_id": "A101614",
+      "feature": "read:cereal_only_rice",
+      "value": "Rice",
+      "drop": "Multiple"
+    },
+    {
+      "attribute_id": "A100196",
+      "feature": "read:soda_listed_caffeine",
+      "drop": "Caffeine Free"
+    },
+    {
+      "attribute_id": "A101644",
+      "feature": "read:mix_no_granola",
+      "drop": "Granola"
+    },
+    {
+      "attribute_id": "A900201",
+      "feature": "read:sweetener_artificial",
+      "value": "Artificial Sweetener"
+    },
+    {
+      "attribute_id": "A101614",
+      "feature": "read:cereal_name_wheat",
+      "value": "Wheat",
+      "drops": [
+        "Multiple",
+        "Oat",
+        "Corn",
+        "Rice",
+        "Specialty",
+        "Not Applicable",
+        "Flaxseed",
+        "Bran",
+        "Quinoa",
+        "Chia",
+        "Hemp",
+        "Buckwheat"
+      ]
+    },
+    {
+      "attribute_id": "A101614",
+      "feature": "read:cereal_name_multiple",
+      "value": "Multiple",
+      "drops": [
+        "Oat",
+        "Corn",
+        "Wheat",
+        "Rice",
+        "Specialty",
+        "Not Applicable",
+        "Flaxseed",
+        "Bran",
+        "Quinoa",
+        "Chia",
+        "Hemp",
+        "Buckwheat"
+      ]
+    },
+    {
+      "attribute_id": "A900301",
+      "feature": "title:thin sliced",
+      "value": "Thin Sliced"
+    },
+    {
+      "attribute_id": "A900101",
+      "feature": "title:tube",
+      "value": "Tube"
+    },
+    {
+      "attribute_id": "A900101",
+      "feature": "title:bottle",
+      "value": "Bottle"
+    },
+    {
+      "attribute_id": "A101209",
+      "feature": "title:coconut",
+      "value": "Coconut"
     }
   ],
   "selection": {
@@ -42,15 +221,26 @@
       "A102531": "cue",
       "A900101": "cue"
     },
-    "q_during_selection": 0.8498269896193772,
-    "rules": 1
+    "q_during_selection": 0.8908716540837337,
+    "rules": 26,
+    "title_rules": 4,
+    "epochs": {
+      "A102531": 2,
+      "A100190": 1,
+      "A100334": 1,
+      "A101614": 4,
+      "A100196": 4,
+      "A101897": 3,
+      "A900101": 3,
+      "A101643": 3
+    }
   },
-  "learning_seconds": 126.4,
+  "learning_seconds": 216.3,
   "holdout": {
-    "q": 0.8244118649846573,
-    "true_positive": 1209,
-    "false_positive": 243,
-    "false_negative": 272,
+    "q": 0.854712487240558,
+    "true_positive": 1256,
+    "false_positive": 202,
+    "false_negative": 225,
     "validity_rate": 1.0,
     "missing_products": 0,
     "holdout_products": 415,

@@ -1,8 +1,8 @@
 {"product_id": "SYN-CEREAL-0076", "run_id": "synth_v5_full", "attributes": {"A100970": ["Flakes"], "A101614": ["Corn"], "A900401": ["Family"]}}
 {"product_id": "SYN-CEREAL-0079", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Multiple"], "A900401": ["Adult & Health"]}}
-{"product_id": "SYN-CEREAL-0086", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Corn", "Multiple"], "A900401": ["Adult & Health"]}}
+{"product_id": "SYN-CEREAL-0086", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Corn"], "A900401": ["Adult & Health"]}}
 {"product_id": "SYN-CEREAL-0087", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Corn"], "A900401": ["Adult & Health"]}}
-{"product_id": "SYN-CEREAL-0090", "run_id": "synth_v5_full", "attributes": {"A100970": ["Granola & Muesli"], "A101614": ["Multiple"], "A900401": ["Adult & Health"]}}
+{"product_id": "SYN-CEREAL-0090", "run_id": "synth_v5_full", "attributes": {"A100970": ["Granola & Muesli"], "A101614": ["Oat"], "A900401": ["Adult & Health"]}}
 {"product_id": "SYN-CEREAL-0093", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Multiple"], "A900401": ["Family"]}}
 {"product_id": "SYN-CEREAL-0098", "run_id": "synth_v5_full", "attributes": {"A101614": ["Multiple"], "A900401": ["Adult & Health"]}}
 {"product_id": "SYN-CEREAL-0101", "run_id": "synth_v5_full", "attributes": {"A100970": ["Granola & Muesli"], "A101614": ["Multiple"], "A900401": ["Adult & Health"]}}
@@ -14,7 +14,7 @@
 {"product_id": "SYN-CEREAL-0112", "run_id": "synth_v5_full", "attributes": {"A100970": ["Granola & Muesli"], "A101614": ["Multiple"], "A900401": ["Family"]}}
 {"product_id": "SYN-CEREAL-0113", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Buckwheat"], "A900401": ["Adult & Health"]}}
 {"product_id": "SYN-CEREAL-0115", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Multiple"], "A900401": ["Family"]}}
-{"product_id": "SYN-CEREAL-0122", "run_id": "synth_v5_full", "attributes": {"A100970": ["Crisps"], "A101614": ["Corn"], "A900401": ["Kids"]}}
+{"product_id": "SYN-CEREAL-0122", "run_id": "synth_v5_full", "attributes": {"A100970": ["Crisps"], "A101614": ["Multiple"], "A900401": ["Kids"]}}
 {"product_id": "SYN-CEREAL-0129", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A900401": ["Adult & Health"]}}
 {"product_id": "SYN-CEREAL-0130", "run_id": "synth_v5_full", "attributes": {"A100970": ["Granola & Muesli"], "A101614": ["Multiple"], "A900401": ["Family"]}}
 {"product_id": "SYN-CEREAL-0140", "run_id": "synth_v5_full", "attributes": {"A100970": ["Granola & Muesli"], "A101614": ["Multiple", "Oat"], "A900401": ["Family"]}}
@@ -25,7 +25,7 @@
 {"product_id": "SYN-CEREAL-0161", "run_id": "synth_v5_full", "attributes": {"A100970": ["Flakes"], "A101614": ["Multiple"], "A900401": ["Family"]}}
 {"product_id": "SYN-CEREAL-0176", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Rice"], "A900401": ["Family"]}}
 {"product_id": "SYN-CEREAL-0177", "run_id": "synth_v5_full", "attributes": {"A100970": ["Granola & Muesli"], "A101614": ["Multiple"], "A900401": ["Family"]}}
-{"product_id": "SYN-CEREAL-0181", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Multiple"], "A900401": ["Family"]}}
+{"product_id": "SYN-CEREAL-0181", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Multiple", "Oat"], "A900401": ["Family"]}}
 {"product_id": "SYN-CEREAL-0187", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Corn"], "A900401": ["Kids"]}}
 {"product_id": "SYN-CEREAL-0189", "run_id": "synth_v5_full", "attributes": {"A100970": ["Flakes"], "A101614": ["Multiple"], "A900401": ["Kids"]}}
 {"product_id": "SYN-CEREAL-0190", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Multiple"], "A900401": ["Family"]}}
@@ -33,7 +33,7 @@
 {"product_id": "SYN-CEREAL-0194", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Multiple"], "A900401": ["Adult & Health"]}}
 {"product_id": "SYN-CEREAL-0197", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Rice"], "A900401": ["Adult & Health"]}}
 {"product_id": "SYN-CEREAL-0198", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Wheat"], "A900401": ["Family"]}}
-{"product_id": "SYN-CEREAL-0204", "run_id": "synth_v5_full", "attributes": {"A100970": ["Granola & Muesli"], "A101614": ["Multiple"], "A900401": ["Family"]}}
+{"product_id": "SYN-CEREAL-0204", "run_id": "synth_v5_full", "attributes": {"A100970": ["Granola & Muesli"], "A101614": ["Oat"], "A900401": ["Family"]}}
 {"product_id": "SYN-CEREAL-0205", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Oat"], "A900401": ["Adult & Health"]}}
 {"product_id": "SYN-CEREAL-0206", "run_id": "synth_v5_full", "attributes": {"A101614": ["Multiple"], "A900401": ["Kids"]}}
 {"product_id": "SYN-CEREAL-0208", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Wheat"], "A900401": ["Family"]}}
@@ -46,7 +46,7 @@
 {"product_id": "SYN-CEREAL-0227", "run_id": "synth_v5_full", "attributes": {"A100970": ["Granola & Muesli"], "A101614": ["Multiple"], "A900401": ["Family"]}}
 {"product_id": "SYN-CEREAL-0229", "run_id": "synth_v5_full", "attributes": {"A100970": ["Granola & Muesli"], "A101614": ["Multiple"], "A900401": ["Adult & Health"]}}
 {"product_id": "SYN-CEREAL-0230", "run_id": "synth_v5_full", "attributes": {"A100970": ["Granola & Muesli"], "A900401": ["Family"]}}
-{"product_id": "SYN-CEREAL-0238", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Corn"], "A900401": ["Adult & Health"]}}
+{"product_id": "SYN-CEREAL-0238", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Corn", "Multiple"], "A900401": ["Adult & Health"]}}
 {"product_id": "SYN-CEREAL-0239", "run_id": "synth_v5_full", "attributes": {"A100970": ["Flakes"], "A101614": ["Multiple"], "A900401": ["Family"]}}
 {"product_id": "SYN-CEREAL-0247", "run_id": "synth_v5_full", "attributes": {"A100970": ["Granola & Muesli"], "A900401": ["Adult & Health"]}}
 {"product_id": "SYN-CEREAL-0255", "run_id": "synth_v5_full", "attributes": {"A100970": ["Flakes"], "A101614": ["Multiple"], "A900401": ["Family"]}}
@@ -60,7 +60,7 @@
 {"product_id": "SYN-CEREAL-0295", "run_id": "synth_v5_full", "attributes": {"A100970": ["Granola & Muesli"], "A101614": ["Multiple"], "A900401": ["Family"]}}
 {"product_id": "SYN-CEREAL-0300", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Corn"], "A900401": ["Family"]}}
 {"product_id": "SYN-CEREAL-0301", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Oat"], "A900401": ["Kids"]}}
-{"product_id": "SYN-CEREAL-0303", "run_id": "synth_v5_full", "attributes": {"A100970": ["Granola & Muesli"], "A101614": ["Multiple"], "A900401": ["Adult & Health"]}}
+{"product_id": "SYN-CEREAL-0303", "run_id": "synth_v5_full", "attributes": {"A100970": ["Granola & Muesli"], "A101614": ["Oat"], "A900401": ["Adult & Health"]}}
 {"product_id": "SYN-CEREAL-0309", "run_id": "synth_v5_full", "attributes": {"A100970": ["Granola & Muesli"], "A101614": ["Multiple"], "A900401": ["Adult & Health"]}}
 {"product_id": "SYN-CEREAL-0310", "run_id": "synth_v5_full", "attributes": {"A100970": ["Granola & Muesli"], "A101614": ["Specialty"], "A900401": ["Adult & Health"]}}
 {"product_id": "SYN-CEREAL-0314", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Multiple"], "A900401": ["Family"]}}
@@ -72,89 +72,89 @@
 {"product_id": "SYN-CEREAL-0340", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Rice"], "A900401": ["Adult & Health"]}}
 {"product_id": "SYN-CEREAL-0341", "run_id": "synth_v5_full", "attributes": {"A100970": ["Granola & Muesli"], "A101614": ["Flaxseed"], "A900401": ["Family"]}}
 {"product_id": "SYN-CEREAL-0343", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Corn"], "A900401": ["Family"]}}
-{"product_id": "SYN-CEREAL-0346", "run_id": "synth_v5_full", "attributes": {"A100970": ["Granola & Muesli"], "A101614": ["Multiple"], "A900401": ["Adult & Health"]}}
+{"product_id": "SYN-CEREAL-0346", "run_id": "synth_v5_full", "attributes": {"A100970": ["Granola & Muesli"], "A101614": ["Oat"], "A900401": ["Adult & Health"]}}
 {"product_id": "SYN-CEREAL-0348", "run_id": "synth_v5_full", "attributes": {"A100970": ["Granola & Muesli"], "A101614": ["Multiple"], "A900401": ["Family"]}}
 {"product_id": "SYN-SODA-0009", "run_id": "synth_v5_full", "attributes": {"A100190": ["Specialty"], "A100196": ["Cane & Real Sugar"], "A900201": ["Sugar"]}}
 {"product_id": "SYN-SODA-0011", "run_id": "synth_v5_full", "attributes": {"A100190": ["Specialty"], "A100196": ["Diet"], "A900201": ["Artificial Sweetener"]}}
 {"product_id": "SYN-SODA-0015", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A100196": ["Diet"], "A900201": ["Sugar"]}}
 {"product_id": "SYN-SODA-0017", "run_id": "synth_v5_full", "attributes": {"A100190": ["Specialty"], "A900201": ["Unsweetened"]}}
 {"product_id": "SYN-SODA-0019", "run_id": "synth_v5_full", "attributes": {"A100190": ["Cola"], "A100196": ["Caffeine Free"], "A900201": ["Corn Syrup"]}}
-{"product_id": "SYN-SODA-0028", "run_id": "synth_v5_full", "attributes": {"A100190": ["Specialty"], "A100196": ["Caffeine Free", "Cane & Real Sugar"], "A900201": ["Sugar"]}}
-{"product_id": "SYN-SODA-0030", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A100196": ["Not Applicable"], "A900201": ["Sugar"]}}
+{"product_id": "SYN-SODA-0028", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A100196": ["Caffeine Free", "Cane & Real Sugar"], "A900201": ["Sugar"]}}
+{"product_id": "SYN-SODA-0030", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A100196": ["Diet"], "A900201": ["Sugar"]}}
 {"product_id": "SYN-SODA-0033", "run_id": "synth_v5_full", "attributes": {"A100190": ["Cola"], "A100196": ["Caffeine Free"], "A900201": ["Corn Syrup"]}}
-{"product_id": "SYN-SODA-0035", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A100196": ["Diet"], "A900201": ["Artificial Sweetener"]}}
+{"product_id": "SYN-SODA-0035", "run_id": "synth_v5_full", "attributes": {"A100190": ["Citrus"], "A100196": ["Diet"], "A900201": ["Artificial Sweetener"]}}
 {"product_id": "SYN-SODA-0037", "run_id": "synth_v5_full", "attributes": {"A100190": ["Specialty"], "A900201": ["Unsweetened"]}}
 {"product_id": "SYN-SODA-0038", "run_id": "synth_v5_full", "attributes": {"A100190": ["Specialty"], "A100196": ["Cane & Real Sugar"], "A900201": ["Sugar"]}}
-{"product_id": "SYN-SODA-0040", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A100196": ["Caffeine Free"], "A900201": ["Sugar"]}}
+{"product_id": "SYN-SODA-0040", "run_id": "synth_v5_full", "attributes": {"A100190": ["Citrus"], "A100196": ["Caffeine Free"], "A900201": ["Sugar"]}}
 {"product_id": "SYN-SODA-0042", "run_id": "synth_v5_full", "attributes": {"A100190": ["Specialty"], "A900201": ["Sugar"]}}
 {"product_id": "SYN-SODA-0046", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A100196": ["Diet"], "A900201": ["Plant-Based Sweetener"]}}
 {"product_id": "SYN-SODA-0047", "run_id": "synth_v5_full", "attributes": {"A100190": ["Specialty"], "A900201": ["Sugar"]}}
 {"product_id": "SYN-SODA-0050", "run_id": "synth_v5_full", "attributes": {"A100190": ["Cream Soda"], "A100196": ["Cane & Real Sugar"], "A900201": ["Sugar"]}}
-{"product_id": "SYN-SODA-0052", "run_id": "synth_v5_full", "attributes": {"A100190": ["Ginger Ale"], "A100196": ["Not Applicable"], "A900201": ["Sugar"]}}
+{"product_id": "SYN-SODA-0052", "run_id": "synth_v5_full", "attributes": {"A100190": ["Ginger Ale"], "A100196": ["Caffeine Free"], "A900201": ["Sugar"]}}
 {"product_id": "SYN-SODA-0059", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A100196": ["Caffeine Free"], "A900201": ["Sugar"]}}
 {"product_id": "SYN-SODA-0065", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A900201": ["Unsweetened"]}}
 {"product_id": "SYN-SODA-0066", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A900201": ["Corn Syrup"]}}
 {"product_id": "SYN-SODA-0069", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A100196": ["Diet"], "A900201": ["Plant-Based Sweetener"]}}
 {"product_id": "SYN-SODA-0073", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A100196": ["Diet"], "A900201": ["Artificial Sweetener"]}}
 {"product_id": "SYN-SODA-0077", "run_id": "synth_v5_full", "attributes": {"A100190": ["Specialty"], "A100196": ["Not Applicable"], "A900201": ["Sugar"]}}
-{"product_id": "SYN-SODA-0078", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A100196": ["Caffeine Free"], "A900201": ["Corn Syrup"]}}
+{"product_id": "SYN-SODA-0078", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A100196": [], "A900201": ["Corn Syrup"]}}
 {"product_id": "SYN-SODA-0084", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A100196": ["Caffeine Free"], "A900201": ["Unsweetened"]}}
-{"product_id": "SYN-SODA-0088", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A900201": ["Sugar"]}}
+{"product_id": "SYN-SODA-0088", "run_id": "synth_v5_full", "attributes": {"A100190": [], "A900201": ["Sugar"]}}
 {"product_id": "SYN-SODA-0092", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A900201": ["Unsweetened"]}}
 {"product_id": "SYN-SODA-0095", "run_id": "synth_v5_full", "attributes": {"A100190": ["Specialty"], "A900201": ["Sugar"]}}
 {"product_id": "SYN-SODA-0103", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A100196": ["Caffeine Free"], "A900201": ["Sugar"]}}
-{"product_id": "SYN-SODA-0108", "run_id": "synth_v5_full", "attributes": {"A100190": ["Cream Soda"], "A100196": ["Not Applicable"], "A900201": ["Sugar"]}}
+{"product_id": "SYN-SODA-0108", "run_id": "synth_v5_full", "attributes": {"A100190": ["Cream Soda"], "A100196": ["Cane & Real Sugar"], "A900201": ["Sugar"]}}
 {"product_id": "SYN-SODA-0113", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A100196": ["Not Applicable"], "A900201": ["Sugar"]}}
-{"product_id": "SYN-SODA-0115", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A900201": ["Unsweetened"]}}
+{"product_id": "SYN-SODA-0115", "run_id": "synth_v5_full", "attributes": {"A100190": ["Citrus"], "A900201": ["Unsweetened"]}}
 {"product_id": "SYN-SODA-0116", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A900201": ["Unsweetened"]}}
 {"product_id": "SYN-SODA-0119", "run_id": "synth_v5_full", "attributes": {"A100190": ["Specialty"], "A100196": ["Caffeine Free"], "A900201": ["Corn Syrup"]}}
-{"product_id": "SYN-SODA-0127", "run_id": "synth_v5_full", "attributes": {"A100190": ["Root Beer"], "A100196": ["Not Applicable"], "A900201": ["Sugar"]}}
-{"product_id": "SYN-SODA-0132", "run_id": "synth_v5_full", "attributes": {"A100190": ["Specialty"], "A900201": ["Corn Syrup"]}}
-{"product_id": "SYN-SODA-0136", "run_id": "synth_v5_full", "attributes": {"A100190": ["Specialty"], "A100196": ["Diet"], "A900201": ["Sugar"]}}
+{"product_id": "SYN-SODA-0127", "run_id": "synth_v5_full", "attributes": {"A100190": ["Root Beer"], "A100196": ["Cane & Real Sugar"], "A900201": ["Sugar"]}}
+{"product_id": "SYN-SODA-0132", "run_id": "synth_v5_full", "attributes": {"A100190": [], "A900201": ["Corn Syrup"]}}
+{"product_id": "SYN-SODA-0136", "run_id": "synth_v5_full", "attributes": {"A100190": ["Specialty"], "A100196": ["Diet"], "A900201": ["Artificial Sweetener"]}}
 {"product_id": "SYN-SODA-0146", "run_id": "synth_v5_full", "attributes": {"A100190": ["Specialty"], "A900201": ["Corn Syrup"]}}
-{"product_id": "SYN-SODA-0152", "run_id": "synth_v5_full", "attributes": {"A100190": ["Citrus"], "A900201": ["Sugar"]}}
-{"product_id": "SYN-SODA-0158", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A100196": ["Diet"], "A900201": ["Plant-Based Sweetener"]}}
+{"product_id": "SYN-SODA-0152", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A900201": ["Sugar"]}}
+{"product_id": "SYN-SODA-0158", "run_id": "synth_v5_full", "attributes": {"A100190": ["Citrus"], "A100196": ["Diet"], "A900201": ["Plant-Based Sweetener"]}}
 {"product_id": "SYN-SODA-0159", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A900201": ["Corn Syrup"]}}
-{"product_id": "SYN-SODA-0160", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A900201": ["Sugar"]}}
-{"product_id": "SYN-SODA-0165", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A900201": ["Corn Syrup"]}}
+{"product_id": "SYN-SODA-0160", "run_id": "synth_v5_full", "attributes": {"A100190": ["Citrus"], "A900201": ["Sugar"]}}
+{"product_id": "SYN-SODA-0165", "run_id": "synth_v5_full", "attributes": {"A100190": ["Citrus"], "A900201": ["Corn Syrup"]}}
 {"product_id": "SYN-SODA-0166", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A900201": ["Unsweetened"]}}
 {"product_id": "SYN-SODA-0168", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A900201": ["Sugar"]}}
 {"product_id": "SYN-SODA-0174", "run_id": "synth_v5_full", "attributes": {"A100190": ["Specialty"], "A100196": ["Cane & Real Sugar"], "A900201": []}}
-{"product_id": "SYN-SODA-0184", "run_id": "synth_v5_full", "attributes": {"A100190": ["Cola"], "A100196": ["Not Applicable"], "A900201": ["Sugar"]}}
+{"product_id": "SYN-SODA-0184", "run_id": "synth_v5_full", "attributes": {"A100190": ["Cola"], "A100196": ["Cane & Real Sugar"], "A900201": ["Sugar"]}}
 {"product_id": "SYN-SODA-0186", "run_id": "synth_v5_full", "attributes": {"A100190": ["Specialty"], "A900201": ["Sugar"]}}
 {"product_id": "SYN-SODA-0193", "run_id": "synth_v5_full", "attributes": {"A100190": ["Specialty"], "A900201": ["Sugar"]}}
 {"product_id": "SYN-SODA-0197", "run_id": "synth_v5_full", "attributes": {"A100190": ["Specialty"], "A100196": ["Caffeine Free"], "A900201": ["Corn Syrup"]}}
 {"product_id": "SYN-SODA-0205", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A100196": ["Not Applicable"], "A900201": ["Sugar"]}}
 {"product_id": "SYN-SODA-0206", "run_id": "synth_v5_full", "attributes": {"A100190": ["Specialty"], "A100196": ["Cane & Real Sugar"], "A900201": ["Sugar"]}}
-{"product_id": "SYN-SODA-0212", "run_id": "synth_v5_full", "attributes": {"A100190": ["Cola"], "A900201": ["Corn Syrup"]}}
+{"product_id": "SYN-SODA-0212", "run_id": "synth_v5_full", "attributes": {"A100190": [], "A900201": ["Corn Syrup"]}}
 {"product_id": "SYN-SODA-0213", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A100196": ["Caffeine Free"], "A900201": ["Corn Syrup"]}}
 {"product_id": "SYN-SODA-0214", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A900201": ["Unsweetened"]}}
-{"product_id": "SYN-SODA-0218", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A900201": ["Sugar"]}}
+{"product_id": "SYN-SODA-0218", "run_id": "synth_v5_full", "attributes": {"A100190": ["Root Beer"], "A900201": ["Sugar"]}}
 {"product_id": "SYN-SODA-0221", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A100196": ["Cane & Real Sugar"], "A900201": ["Sugar"]}}
 {"product_id": "SYN-BREAD-0001", "run_id": "synth_v5_full", "attributes": {"A101571": ["Blueberry"]}}
 {"product_id": "SYN-BREAD-0005", "run_id": "synth_v5_full", "attributes": {"A101571": [], "A102220": ["White"], "A102506": ["Sandwich & Loaf"], "A900301": ["Unsliced"]}}
-{"product_id": "SYN-BREAD-0008", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A101897": ["English Muffin"], "A102246": ["White"]}}
-{"product_id": "SYN-BREAD-0013", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A102220": ["White"], "A102506": ["Sandwich & Loaf"], "A900301": ["Sliced"]}}
+{"product_id": "SYN-BREAD-0008", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A101897": ["Hot Dog Bun"], "A102246": ["White"]}}
+{"product_id": "SYN-BREAD-0013", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A102220": ["Sourdough"], "A102506": ["Sandwich & Loaf"], "A900301": ["Sliced"]}}
 {"product_id": "SYN-BREAD-0014", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A102220": ["Oatmeal"], "A102506": ["Sandwich & Loaf"], "A900301": ["Unsliced"]}}
 {"product_id": "SYN-BREAD-0024", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A101897": ["Hot Dog Bun"], "A102246": ["White"]}}
 {"product_id": "SYN-BREAD-0029", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A102220": ["White"], "A102506": ["Sandwich & Loaf"], "A900301": ["Unsliced"]}}
 {"product_id": "SYN-BREAD-0030", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"]}}
 {"product_id": "SYN-BREAD-0034", "run_id": "synth_v5_full", "attributes": {"A101897": ["Dinner Roll"], "A102246": ["White"]}}
-{"product_id": "SYN-BREAD-0036", "run_id": "synth_v5_full", "attributes": {"A101897": ["Hot Dog Bun"], "A102246": ["White"]}}
+{"product_id": "SYN-BREAD-0036", "run_id": "synth_v5_full", "attributes": {"A101897": ["Hot Dog Bun"], "A102246": ["Brioche"]}}
 {"product_id": "SYN-BREAD-0038", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A102220": ["White"], "A102506": ["Sandwich & Loaf"], "A900301": ["Sliced"]}}
 {"product_id": "SYN-BREAD-0040", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A101897": ["Dinner Roll"], "A102246": ["White"]}}
 {"product_id": "SYN-BREAD-0042", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A101897": ["Hot Dog Bun"], "A102246": ["White"]}}
 {"product_id": "SYN-BREAD-0043", "run_id": "synth_v5_full", "attributes": {"A101897": ["Hot Dog Bun"], "A102246": ["White"]}}
 {"product_id": "SYN-BREAD-0050", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A102220": ["White"], "A102506": ["Sandwich & Loaf"], "A900301": ["Unsliced"]}}
-{"product_id": "SYN-BREAD-0053", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A102220": ["White"], "A102506": ["Sandwich & Loaf"], "A900301": ["Sliced"]}}
+{"product_id": "SYN-BREAD-0053", "run_id": "synth_v5_full", "attributes": {"A101571": ["Seeds"], "A102220": ["White"], "A102506": ["Sandwich & Loaf"], "A900301": ["Sliced"]}}
 {"product_id": "SYN-BREAD-0057", "run_id": "synth_v5_full", "attributes": {"A101571": ["Fruit"], "A102506": ["Sandwich & Loaf"], "A900301": ["Unsliced"]}}
 {"product_id": "SYN-BREAD-0059", "run_id": "synth_v5_full", "attributes": {"A101897": ["Hamburger Bun"], "A102246": ["Potato"]}}
-{"product_id": "SYN-BREAD-0061", "run_id": "synth_v5_full", "attributes": {"A102220": ["Whole Wheat & Multigrain"], "A102506": ["Sandwich & Loaf"], "A900301": ["Sliced"]}}
-{"product_id": "SYN-BREAD-0063", "run_id": "synth_v5_full", "attributes": {"A101897": ["English Muffin"], "A102246": ["Hawaiian"]}}
+{"product_id": "SYN-BREAD-0061", "run_id": "synth_v5_full", "attributes": {"A102220": ["Whole Wheat & Multigrain"], "A102506": ["Sandwich & Loaf"], "A900301": ["Thin Sliced"]}}
+{"product_id": "SYN-BREAD-0063", "run_id": "synth_v5_full", "attributes": {"A101897": ["Dinner Roll"], "A102246": ["Hawaiian"]}}
 {"product_id": "SYN-BREAD-0065", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A102220": ["Whole Wheat & Multigrain"], "A102506": ["Sandwich & Loaf"], "A900301": ["Unsliced"]}}
 {"product_id": "SYN-BREAD-0066", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A102220": ["White"], "A102506": ["Sandwich & Loaf"], "A900301": ["Unsliced"]}}
 {"product_id": "SYN-BREAD-0068", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A102220": ["Whole Wheat & Multigrain"], "A102506": ["Sandwich & Loaf"], "A900301": ["Unsliced"]}}
-{"product_id": "SYN-BREAD-0069", "run_id": "synth_v5_full", "attributes": {"A102220": ["White"], "A102506": ["Sandwich & Loaf"], "A900301": ["Sliced"]}}
+{"product_id": "SYN-BREAD-0069", "run_id": "synth_v5_full", "attributes": {"A102220": ["White"], "A102506": ["Sandwich & Loaf"], "A900301": ["Thin Sliced"]}}
 {"product_id": "SYN-BREAD-0074", "run_id": "synth_v5_full", "attributes": {"A102220": ["White"], "A102506": ["Sandwich & Loaf"], "A900301": ["Unsliced"]}}
 {"product_id": "SYN-BREAD-0075", "run_id": "synth_v5_full", "attributes": {"A102220": ["White"], "A102506": ["Sandwich & Loaf"], "A900301": ["Sliced"]}}
 {"product_id": "SYN-BREAD-0078", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A101897": ["Hamburger Bun"], "A102246": ["White"]}}
@@ -166,7 +166,7 @@
 {"product_id": "SYN-BREAD-0100", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A102220": ["White"], "A102506": ["Sandwich & Loaf"], "A900301": ["Sliced"]}}
 {"product_id": "SYN-BREAD-0103", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A101897": ["English Muffin"], "A102246": ["White"]}}
 {"product_id": "SYN-BREAD-0106", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A101897": ["Dinner Roll"], "A102246": ["White"]}}
-{"product_id": "SYN-BREAD-0107", "run_id": "synth_v5_full", "attributes": {"A101571": [], "A102220": ["Whole Wheat & Multigrain"], "A102506": ["Sandwich & Loaf"], "A900301": ["Unsliced"]}}
+{"product_id": "SYN-BREAD-0107", "run_id": "synth_v5_full", "attributes": {"A101571": [], "A102220": ["Sourdough"], "A102506": ["Sandwich & Loaf"], "A900301": ["Unsliced"]}}
 {"product_id": "SYN-BREAD-0108", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A101897": ["English Muffin"]}}
 {"product_id": "SYN-BREAD-0110", "run_id": "synth_v5_full", "attributes": {"A101897": ["Hot Dog Bun"], "A102246": ["White"]}}
 {"product_id": "SYN-BREAD-0111", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A101897": ["Hamburger Bun"], "A102246": ["White"]}}
@@ -183,8 +183,8 @@
 {"product_id": "SYN-BREAD-0139", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A101897": ["English Muffin"], "A102246": ["Potato"]}}
 {"product_id": "SYN-BREAD-0140", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A102220": ["White"], "A102506": ["Sandwich & Loaf"], "A900301": ["Sliced"]}}
 {"product_id": "SYN-BREAD-0145", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A101897": ["English Muffin"], "A102246": ["Wheat"]}}
-{"product_id": "SYN-BREAD-0146", "run_id": "synth_v5_full", "attributes": {"A101897": ["Dinner Roll"], "A102246": ["Potato"]}}
-{"product_id": "SYN-BREAD-0148", "run_id": "synth_v5_full", "attributes": {"A101571": ["Garlic"]}}
+{"product_id": "SYN-BREAD-0146", "run_id": "synth_v5_full", "attributes": {"A101897": ["Hamburger Bun"], "A102246": ["Potato"]}}
+{"product_id": "SYN-BREAD-0148", "run_id": "synth_v5_full", "attributes": {"A101571": ["Garlic", "Seeds"]}}
 {"product_id": "SYN-BREAD-0150", "run_id": "synth_v5_full", "attributes": {"A102220": ["Whole Wheat & Multigrain"], "A102506": ["Sandwich & Loaf"], "A900301": ["Sliced"]}}
 {"product_id": "SYN-BREAD-0153", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A101897": ["Dinner Roll"], "A102246": ["White"]}}
 {"product_id": "SYN-BREAD-0158", "run_id": "synth_v5_full", "attributes": {"A102220": ["Rye"], "A102506": ["Sandwich & Loaf"], "A900301": ["Unsliced"]}}
@@ -195,32 +195,32 @@
 {"product_id": "SYN-BREAD-0178", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A101897": ["Dinner Roll"], "A102246": ["White"]}}
 {"product_id": "SYN-BREAD-0179", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A102220": ["Whole Wheat & Multigrain"], "A102506": ["Sandwich & Loaf"], "A900301": ["Sliced"]}}
 {"product_id": "SYN-BREAD-0180", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A101897": ["Hamburger Bun"], "A102246": ["Potato"]}}
-{"product_id": "SYN-BREAD-0184", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A102220": ["Oatmeal"], "A102506": ["Sandwich & Loaf"], "A900301": ["Unsliced"]}}
-{"product_id": "SYN-BREAD-0188", "run_id": "synth_v5_full", "attributes": {"A101571": [], "A102220": ["Whole Wheat & Multigrain"], "A102506": ["Sandwich & Loaf"], "A900301": ["Sliced"]}}
+{"product_id": "SYN-BREAD-0184", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A102220": ["Sourdough"], "A102506": ["Sandwich & Loaf"], "A900301": ["Unsliced"]}}
+{"product_id": "SYN-BREAD-0188", "run_id": "synth_v5_full", "attributes": {"A101571": ["Oats", "Seeds"], "A102220": ["Whole Wheat & Multigrain"], "A102506": ["Sandwich & Loaf"], "A900301": ["Sliced"]}}
 {"product_id": "SYN-BREAD-0190", "run_id": "synth_v5_full", "attributes": {"A101571": []}}
 {"product_id": "SYN-BREAD-0191", "run_id": "synth_v5_full", "attributes": {"A101571": ["Blueberry"], "A101897": ["English Muffin"], "A102246": ["White"]}}
 {"product_id": "SYN-BREAD-0192", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A101897": ["Dinner Roll"], "A102246": ["White"]}}
 {"product_id": "SYN-BREAD-0196", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A102220": ["White"], "A102506": ["Sandwich & Loaf"], "A900301": ["Sliced"]}}
-{"product_id": "SYN-BREAD-0197", "run_id": "synth_v5_full", "attributes": {"A101897": ["Hamburger Bun"], "A102246": ["White"]}}
+{"product_id": "SYN-BREAD-0197", "run_id": "synth_v5_full", "attributes": {"A101897": ["Hamburger Bun"], "A102246": ["Brioche"]}}
 {"product_id": "SYN-BREAD-0198", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A101897": ["Dinner Roll"], "A102246": ["Potato"]}}
 {"product_id": "SYN-BREAD-0201", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A102220": ["Whole Wheat & Multigrain"], "A102506": ["Sandwich & Loaf"], "A900301": ["Unsliced"]}}
 {"product_id": "SYN-BREAD-0206", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A102220": ["White"], "A102506": ["Sandwich & Loaf"], "A900301": ["Sliced"]}}
 {"product_id": "SYN-BREAD-0210", "run_id": "synth_v5_full", "attributes": {"A101897": ["Hamburger Bun"]}}
 {"product_id": "SYN-BREAD-0217", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A102220": ["Whole Wheat & Multigrain"], "A102506": ["Sandwich & Loaf"], "A900301": ["Unsliced"]}}
-{"product_id": "SYN-BREAD-0218", "run_id": "synth_v5_full", "attributes": {"A101571": [], "A102220": ["White"], "A102506": ["Sandwich & Loaf"], "A900301": ["Unsliced"]}}
+{"product_id": "SYN-BREAD-0218", "run_id": "synth_v5_full", "attributes": {"A101571": ["Seeds"], "A102220": ["White"], "A102506": ["Sandwich & Loaf"], "A900301": ["Unsliced"]}}
 {"product_id": "SYN-BREAD-0219", "run_id": "synth_v5_full", "attributes": {"A101571": ["Seeds"], "A102220": ["Whole Wheat & Multigrain"], "A102506": ["Sandwich & Loaf"], "A900301": ["Sliced"]}}
 {"product_id": "SYN-BREAD-0220", "run_id": "synth_v5_full", "attributes": {"A101897": ["Hot Dog Bun"], "A102246": ["White"]}}
-{"product_id": "SYN-BREAD-0222", "run_id": "synth_v5_full", "attributes": {"A101571": [], "A102220": ["Whole Wheat & Multigrain"], "A102506": ["Sandwich & Loaf"], "A900301": ["Sliced"]}}
-{"product_id": "SYN-BREAD-0226", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A101897": ["English Muffin"], "A102246": ["Whole Wheat & Multigrain"]}}
+{"product_id": "SYN-BREAD-0222", "run_id": "synth_v5_full", "attributes": {"A101571": [], "A102220": ["Whole Wheat & Multigrain"], "A102506": ["Sandwich & Loaf"], "A900301": ["Thin Sliced"]}}
+{"product_id": "SYN-BREAD-0226", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A101897": ["Sandwich & Sub"], "A102246": ["Whole Wheat & Multigrain"]}}
 {"product_id": "SYN-BREAD-0229", "run_id": "synth_v5_full", "attributes": {"A102220": ["White"], "A102506": ["Sandwich & Loaf"], "A900301": ["Sliced"]}}
-{"product_id": "SYN-BREAD-0233", "run_id": "synth_v5_full", "attributes": {"A101571": [], "A102220": ["White"], "A102506": ["Sandwich & Loaf"], "A900301": ["Unsliced"]}}
+{"product_id": "SYN-BREAD-0233", "run_id": "synth_v5_full", "attributes": {"A101571": ["Oats"], "A102220": ["White"], "A102506": ["Sandwich & Loaf"], "A900301": ["Unsliced"]}}
 {"product_id": "SYN-BREAD-0234", "run_id": "synth_v5_full", "attributes": {"A101571": ["Garlic"]}}
 {"product_id": "SYN-BREAD-0243", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A101897": ["Hamburger Bun"], "A102246": ["White"]}}
 {"product_id": "SYN-BREAD-0244", "run_id": "synth_v5_full", "attributes": {"A101571": ["Seeds"], "A102220": ["Whole Wheat & Multigrain"], "A102506": ["Sandwich & Loaf"], "A900301": ["Unsliced"]}}
 {"product_id": "SYN-BREAD-0259", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A101897": ["Hamburger Bun"], "A102246": ["White"]}}
 {"product_id": "SYN-BREAD-0261", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"]}}
-{"product_id": "SYN-BREAD-0264", "run_id": "synth_v5_full", "attributes": {"A101897": ["Hamburger Bun"], "A102246": ["White"]}}
-{"product_id": "SYN-BREAD-0265", "run_id": "synth_v5_full", "attributes": {"A101571": [], "A102220": ["Whole Wheat & Multigrain"], "A102506": ["Sandwich & Loaf"], "A900301": ["Sliced"]}}
+{"product_id": "SYN-BREAD-0264", "run_id": "synth_v5_full", "attributes": {"A101897": ["Hamburger Bun"], "A102246": ["Brioche"]}}
+{"product_id": "SYN-BREAD-0265", "run_id": "synth_v5_full", "attributes": {"A101571": ["Seeds"], "A102220": ["Sourdough"], "A102506": ["Sandwich & Loaf"], "A900301": ["Sliced"]}}
 {"product_id": "SYN-BREAD-0266", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"]}}
 {"product_id": "SYN-BREAD-0271", "run_id": "synth_v5_full", "attributes": {"A102220": ["White"], "A102506": ["Sandwich & Loaf"], "A900301": ["Sliced"]}}
 {"product_id": "SYN-BREAD-0273", "run_id": "synth_v5_full", "attributes": {"A102220": ["White"], "A102506": ["Sandwich & Loaf"], "A900301": ["Unsliced"]}}
@@ -238,21 +238,21 @@
 {"product_id": "SYN-BREAD-0311", "run_id": "synth_v5_full", "attributes": {"A101897": ["English Muffin"]}}
 {"product_id": "SYN-BREAD-0317", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A102220": ["White"], "A102506": ["Sandwich & Loaf"], "A900301": ["Unsliced"]}}
 {"product_id": "SYN-BREAD-0321", "run_id": "synth_v5_full", "attributes": {"A101571": ["Raisins"], "A102506": ["Sandwich & Loaf"], "A900301": ["Sliced"]}}
-{"product_id": "SYN-BREAD-0323", "run_id": "synth_v5_full", "attributes": {"A101571": [], "A102220": ["Whole Wheat & Multigrain"], "A102506": ["Sandwich & Loaf"], "A900301": ["Unsliced"]}}
+{"product_id": "SYN-BREAD-0323", "run_id": "synth_v5_full", "attributes": {"A101571": ["Seeds"], "A102220": ["Whole Wheat & Multigrain"], "A102506": ["Sandwich & Loaf"], "A900301": ["Unsliced"]}}
 {"product_id": "SYN-BREAD-0327", "run_id": "synth_v5_full", "attributes": {"A101571": ["Seeds"], "A102220": ["Whole Wheat & Multigrain"], "A102506": ["Sandwich & Loaf"], "A900301": ["Sliced"]}}
 {"product_id": "SYN-BREAD-0334", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A101897": ["Hamburger Bun"], "A102246": ["White"]}}
 {"product_id": "SYN-BREAD-0335", "run_id": "synth_v5_full", "attributes": {"A101571": ["Not Applicable"], "A102220": ["Whole Wheat & Multigrain"], "A102506": ["Sandwich & Loaf"], "A900301": ["Sliced"]}}
 {"product_id": "SYN-BREAD-0337", "run_id": "synth_v5_full", "attributes": {"A101897": ["Hot Dog Bun"], "A102246": ["Ciabatta"]}}
 {"product_id": "SYN-BREAD-0338", "run_id": "synth_v5_full", "attributes": {"A101571": [], "A102506": ["Sandwich & Loaf"], "A900301": ["Sliced"]}}
-{"product_id": "SYN-BREAD-0341", "run_id": "synth_v5_full", "attributes": {"A101571": [], "A102220": ["Whole Wheat & Multigrain"], "A102506": ["Sandwich & Loaf"], "A900301": ["Unsliced"]}}
+{"product_id": "SYN-BREAD-0341", "run_id": "synth_v5_full", "attributes": {"A101571": ["Oats"], "A102220": ["Whole Wheat & Multigrain"], "A102506": ["Sandwich & Loaf"], "A900301": ["Unsliced"]}}
 {"product_id": "SYN-CEREAL-0001", "run_id": "synth_v5_full", "attributes": {"A100970": ["Flakes", "Granola & Muesli"], "A101614": ["Multiple"], "A900401": ["Family"]}}
 {"product_id": "SYN-CEREAL-0003", "run_id": "synth_v5_full", "attributes": {"A100970": ["Granola & Muesli"], "A101614": ["Oat"], "A900401": ["Adult & Health"]}}
 {"product_id": "SYN-CEREAL-0004", "run_id": "synth_v5_full", "attributes": {"A100970": ["Granola & Muesli"], "A101614": ["Multiple"], "A900401": ["Family"]}}
 {"product_id": "SYN-CEREAL-0007", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Corn"], "A900401": ["Family"]}}
 {"product_id": "SYN-CEREAL-0010", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Corn"], "A900401": ["Kids"]}}
-{"product_id": "SYN-CEREAL-0013", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Corn"], "A900401": ["Kids"]}}
-{"product_id": "SYN-CEREAL-0019", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Corn"], "A900401": ["Family"]}}
-{"product_id": "SYN-CEREAL-0022", "run_id": "synth_v5_full", "attributes": {"A100970": ["Granola & Muesli"], "A101614": ["Multiple"], "A900401": ["Adult & Health"]}}
+{"product_id": "SYN-CEREAL-0013", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Corn", "Wheat"], "A900401": ["Kids"]}}
+{"product_id": "SYN-CEREAL-0019", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Corn", "Oat"], "A900401": ["Family"]}}
+{"product_id": "SYN-CEREAL-0022", "run_id": "synth_v5_full", "attributes": {"A100970": ["Granola & Muesli"], "A101614": ["Oat"], "A900401": ["Adult & Health"]}}
 {"product_id": "SYN-CEREAL-0023", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Multiple"], "A900401": ["Adult & Health"]}}
 {"product_id": "SYN-CEREAL-0024", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Corn"], "A900401": ["Family"]}}
 {"product_id": "SYN-CEREAL-0028", "run_id": "synth_v5_full", "attributes": {"A100970": ["Granola & Muesli"], "A101614": ["Multiple"], "A900401": ["Family"]}}
@@ -269,7 +269,7 @@
 {"product_id": "SYN-CEREAL-0060", "run_id": "synth_v5_full", "attributes": {"A100970": ["Flakes"], "A101614": ["Multiple"], "A900401": ["Family"]}}
 {"product_id": "SYN-CEREAL-0063", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Multiple"], "A900401": ["Family"]}}
 {"product_id": "SYN-CEREAL-0064", "run_id": "synth_v5_full", "attributes": {"A100970": ["Granola & Muesli"], "A101614": ["Multiple"], "A900401": ["Family"]}}
-{"product_id": "SYN-CEREAL-0065", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Multiple"], "A900401": ["Family"]}}
+{"product_id": "SYN-CEREAL-0065", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Wheat"], "A900401": ["Family"]}}
 {"product_id": "SYN-CEREAL-0068", "run_id": "synth_v5_full", "attributes": {"A100970": ["Puffs"], "A101614": ["Multiple"], "A900401": ["Kids"]}}
 {"product_id": "SYN-SODA-0230", "run_id": "synth_v5_full", "attributes": {"A100190": ["Specialty"], "A100196": ["Diet"], "A900201": []}}
 {"product_id": "SYN-SODA-0234", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A900201": ["Sugar"]}}
@@ -277,7 +277,7 @@
 {"product_id": "SYN-SODA-0237", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A100196": ["Not Applicable"], "A900201": ["Sugar"]}}
 {"product_id": "SYN-SODA-0238", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A100196": ["Not Applicable"], "A900201": ["Sugar"]}}
 {"product_id": "SYN-SODA-0241", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A100196": ["Diet"], "A900201": ["Plant-Based Sweetener"]}}
-{"product_id": "SYN-SODA-0242", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A100196": ["Diet"], "A900201": ["Plant-Based Sweetener"]}}
+{"product_id": "SYN-SODA-0242", "run_id": "synth_v5_full", "attributes": {"A100190": ["Lemon Lime"], "A100196": ["Diet"], "A900201": ["Plant-Based Sweetener"]}}
 {"product_id": "SYN-SODA-0250", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A900201": ["Sugar"]}}
 {"product_id": "SYN-SODA-0251", "run_id": "synth_v5_full", "attributes": {"A100190": ["Specialty"], "A900201": ["Unsweetened"]}}
 {"product_id": "SYN-SODA-0260", "run_id": "synth_v5_full", "attributes": {"A100190": ["Specialty"], "A900201": ["Unsweetened"]}}
@@ -291,79 +291,79 @@
 {"product_id": "SYN-SODA-0275", "run_id": "synth_v5_full", "attributes": {"A100190": ["Specialty"], "A100196": ["Diet"], "A900201": ["Artificial Sweetener"]}}
 {"product_id": "SYN-SODA-0281", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A900201": ["Unsweetened"]}}
 {"product_id": "SYN-SODA-0283", "run_id": "synth_v5_full", "attributes": {"A100190": ["Specialty"], "A900201": ["Sugar"]}}
-{"product_id": "SYN-SODA-0284", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A900201": ["Corn Syrup"]}}
+{"product_id": "SYN-SODA-0284", "run_id": "synth_v5_full", "attributes": {"A100190": ["Lemon Lime"], "A900201": ["Corn Syrup"]}}
 {"product_id": "SYN-SODA-0291", "run_id": "synth_v5_full", "attributes": {"A100190": ["Root Beer"], "A100196": ["Caffeine Free", "Diet"], "A900201": ["Plant-Based Sweetener"]}}
-{"product_id": "SYN-SODA-0297", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A100196": ["Diet"], "A900201": ["Sugar"]}}
+{"product_id": "SYN-SODA-0297", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A100196": ["Diet"], "A900201": ["Artificial Sweetener"]}}
 {"product_id": "SYN-SODA-0298", "run_id": "synth_v5_full", "attributes": {"A100190": ["Specialty"], "A100196": ["Caffeine Free"], "A900201": ["Unsweetened"]}}
-{"product_id": "SYN-SODA-0300", "run_id": "synth_v5_full", "attributes": {"A100190": ["Cola"], "A100196": ["Cane & Real Sugar"], "A900201": ["Sugar"]}}
+{"product_id": "SYN-SODA-0300", "run_id": "synth_v5_full", "attributes": {"A100190": ["Lemon Lime"], "A100196": ["Caffeine Free"], "A900201": ["Sugar"]}}
 {"product_id": "SYN-SODA-0303", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A900201": ["Sugar"]}}
 {"product_id": "SYN-SODA-0304", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A100196": ["Caffeine Free"], "A900201": ["Corn Syrup"]}}
 {"product_id": "SYN-SODA-0308", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A100196": ["Caffeine Free"], "A900201": ["Sugar"]}}
-{"product_id": "SYN-SODA-0322", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A900201": ["Sugar"]}}
-{"product_id": "SYN-SODA-0323", "run_id": "synth_v5_full", "attributes": {"A100190": ["Specialty"], "A100196": ["Not Applicable"], "A900201": ["Sugar"]}}
+{"product_id": "SYN-SODA-0322", "run_id": "synth_v5_full", "attributes": {"A100190": ["Cola"], "A900201": ["Sugar"]}}
+{"product_id": "SYN-SODA-0323", "run_id": "synth_v5_full", "attributes": {"A100190": ["Specialty"], "A100196": ["Cane & Real Sugar"], "A900201": ["Sugar"]}}
 {"product_id": "SYN-SODA-0326", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A900201": ["Unsweetened"]}}
 {"product_id": "SYN-SODA-0329", "run_id": "synth_v5_full", "attributes": {"A100190": ["Cola"], "A100196": ["Diet"], "A900201": ["Plant-Based Sweetener"]}}
 {"product_id": "SYN-SODA-0330", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A900201": ["Corn Syrup"]}}
-{"product_id": "SYN-SODA-0335", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A100196": ["Cane & Real Sugar"], "A900201": ["Artificial Sweetener"]}}
-{"product_id": "SYN-SODA-0336", "run_id": "synth_v5_full", "attributes": {"A100190": ["Specialty"], "A100196": ["Diet"], "A900201": ["Sugar"]}}
+{"product_id": "SYN-SODA-0335", "run_id": "synth_v5_full", "attributes": {"A100190": ["Citrus"], "A100196": ["Diet"], "A900201": ["Artificial Sweetener"]}}
+{"product_id": "SYN-SODA-0336", "run_id": "synth_v5_full", "attributes": {"A100190": ["Citrus"], "A100196": ["Diet"], "A900201": ["Artificial Sweetener"]}}
 {"product_id": "SYN-SODA-0338", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A900201": ["Corn Syrup"]}}
 {"product_id": "SYN-SODA-0349", "run_id": "synth_v5_full", "attributes": {"A100190": ["Fruit"], "A100196": ["Not Applicable"], "A900201": ["Sugar"]}}
 {"product_id": "SYN-SODA-0350", "run_id": "synth_v5_full", "attributes": {"A100190": ["Specialty"], "A100196": ["Diet"], "A900201": ["Plant-Based Sweetener"]}}
-{"product_id": "SYN-YOGURT-0007", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A101644": ["Candy", "Granola"], "A102531": ["Low & Reduced Fat"], "A900101": ["Cup"]}}
-{"product_id": "SYN-YOGURT-0009", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A101644": ["Cookie"], "A102531": ["Low & Reduced Fat"], "A900101": ["Cup"]}}
-{"product_id": "SYN-YOGURT-0015", "run_id": "synth_v5_full", "attributes": {"A100334": ["Traditional"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A102531": ["Low & Reduced Fat"], "A900101": ["Cup"]}}
+{"product_id": "SYN-YOGURT-0007", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Cow"], "A101643": ["Fruit on the Bottom"], "A101644": ["Candy"], "A102531": ["Low & Reduced Fat"], "A900101": ["Cup"]}}
+{"product_id": "SYN-YOGURT-0009", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Coconut"], "A101643": ["Not Applicable"], "A101644": ["Cookie"], "A102531": ["Low & Reduced Fat"], "A900101": ["Tub"]}}
+{"product_id": "SYN-YOGURT-0015", "run_id": "synth_v5_full", "attributes": {"A100334": [], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A102531": ["Low & Reduced Fat"], "A900101": ["Cup"]}}
 {"product_id": "SYN-YOGURT-0018", "run_id": "synth_v5_full", "attributes": {"A100334": ["French", "Traditional"], "A101209": ["Coconut"], "A101643": ["Not Applicable"], "A102531": ["Not Applicable"], "A900101": ["Cup"]}}
 {"product_id": "SYN-YOGURT-0019", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek", "Probiotic & Functional"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A102531": ["Low & Reduced Fat"], "A900101": ["Cup"]}}
-{"product_id": "SYN-YOGURT-0022", "run_id": "synth_v5_full", "attributes": {"A100334": ["French"], "A101209": ["Cow"], "A102531": ["Whole"], "A900101": ["Cup"]}}
-{"product_id": "SYN-YOGURT-0023", "run_id": "synth_v5_full", "attributes": {"A100334": ["Traditional"], "A101209": ["Cow"], "A101643": ["Fruit Flavored"], "A102531": ["Whole"], "A900101": ["Tube"]}}
+{"product_id": "SYN-YOGURT-0022", "run_id": "synth_v5_full", "attributes": {"A100334": [], "A101209": ["Cow"], "A102531": ["Whole"], "A900101": ["Cup"]}}
+{"product_id": "SYN-YOGURT-0023", "run_id": "synth_v5_full", "attributes": {"A100334": ["French", "Probiotic & Functional", "Traditional"], "A101209": ["Cow"], "A101643": ["Fruit Flavored"], "A102531": ["Whole"], "A900101": ["Tube"]}}
 {"product_id": "SYN-YOGURT-0025", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A101644": ["Candy", "Cookie"], "A102531": ["Low & Reduced Fat"], "A900101": ["Tub"]}}
 {"product_id": "SYN-YOGURT-0026", "run_id": "synth_v5_full", "attributes": {"A100334": ["Probiotic & Functional", "Traditional"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A102531": ["Low & Reduced Fat"], "A900101": ["Cup"]}}
-{"product_id": "SYN-YOGURT-0028", "run_id": "synth_v5_full", "attributes": {"A100334": ["Traditional"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A102531": ["Fat Free"], "A900101": ["Cup"]}}
-{"product_id": "SYN-YOGURT-0030", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A102531": ["Whole"], "A900101": ["Cup"]}}
+{"product_id": "SYN-YOGURT-0028", "run_id": "synth_v5_full", "attributes": {"A100334": ["Traditional"], "A101209": ["Cow"], "A101643": ["Fruit on the Bottom"], "A102531": ["Fat Free"], "A900101": ["Tube"]}}
+{"product_id": "SYN-YOGURT-0030", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek", "Traditional"], "A101209": ["Cow"], "A101643": ["Fruit on the Bottom"], "A102531": ["Whole"], "A900101": ["Cup"]}}
 {"product_id": "SYN-YOGURT-0034", "run_id": "synth_v5_full", "attributes": {"A100334": ["Drinkable", "Probiotic & Functional"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A102531": ["Low & Reduced Fat"], "A900101": ["Bottle"]}}
 {"product_id": "SYN-YOGURT-0037", "run_id": "synth_v5_full", "attributes": {"A100334": ["Probiotic & Functional", "Traditional"], "A101209": ["Cow"], "A101643": ["Fruit Flavored"], "A102531": ["Whole"], "A900101": ["Cup"]}}
-{"product_id": "SYN-YOGURT-0038", "run_id": "synth_v5_full", "attributes": {"A100334": ["Probiotic & Functional", "Traditional"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A101644": ["Granola"], "A102531": ["Whole"], "A900101": ["Cup"]}}
+{"product_id": "SYN-YOGURT-0038", "run_id": "synth_v5_full", "attributes": {"A100334": ["Probiotic & Functional", "Traditional"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A101644": [], "A102531": ["Whole"], "A900101": ["Cup"]}}
 {"product_id": "SYN-YOGURT-0041", "run_id": "synth_v5_full", "attributes": {"A100334": ["Drinkable"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A101644": ["Not Applicable"], "A102531": ["Low & Reduced Fat"], "A900101": ["Bottle"]}}
 {"product_id": "SYN-YOGURT-0042", "run_id": "synth_v5_full", "attributes": {"A100334": ["Drinkable", "Probiotic & Functional"], "A101209": ["Cow"], "A101643": ["Fruit Flavored"], "A102531": ["Low & Reduced Fat"], "A900101": ["Bottle"]}}
 {"product_id": "SYN-YOGURT-0047", "run_id": "synth_v5_full", "attributes": {"A100334": ["Traditional"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A102531": ["Low & Reduced Fat"], "A900101": ["Cup"]}}
 {"product_id": "SYN-YOGURT-0050", "run_id": "synth_v5_full", "attributes": {"A100334": ["Traditional"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A101644": ["Not Applicable"], "A102531": ["Whole"], "A900101": ["Cup"]}}
 {"product_id": "SYN-YOGURT-0051", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Cow"], "A101643": ["Fruit Flavored"], "A102531": ["Low & Reduced Fat"], "A900101": ["Tub"]}}
-{"product_id": "SYN-YOGURT-0059", "run_id": "synth_v5_full", "attributes": {"A100334": ["French", "Traditional"], "A101209": ["Coconut"], "A101643": ["Fruit Mixed In"], "A102531": ["Whole"], "A900101": ["Multipack"]}}
+{"product_id": "SYN-YOGURT-0059", "run_id": "synth_v5_full", "attributes": {"A100334": ["French", "Traditional"], "A101209": ["Coconut"], "A101643": ["Fruit Mixed In"], "A102531": ["Not Applicable"], "A900101": ["Multipack"]}}
 {"product_id": "SYN-YOGURT-0083", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A102531": ["Fat Free"], "A900101": ["Cup"]}}
 {"product_id": "SYN-YOGURT-0084", "run_id": "synth_v5_full", "attributes": {"A100334": ["Drinkable", "Probiotic & Functional"], "A101209": ["Cow"], "A101643": ["Fruit Flavored"], "A102531": ["Low & Reduced Fat"], "A900101": ["Bottle"]}}
-{"product_id": "SYN-YOGURT-0088", "run_id": "synth_v5_full", "attributes": {"A100334": ["Probiotic & Functional"], "A101209": ["Coconut"], "A101643": ["Fruit Mixed In"], "A102531": ["Not Applicable"], "A900101": ["Multipack"]}}
+{"product_id": "SYN-YOGURT-0088", "run_id": "synth_v5_full", "attributes": {"A100334": ["Probiotic & Functional", "Traditional"], "A101209": ["Coconut"], "A101643": ["Fruit Mixed In"], "A102531": ["Not Applicable"], "A900101": ["Multipack"]}}
 {"product_id": "SYN-YOGURT-0089", "run_id": "synth_v5_full", "attributes": {"A100334": ["Drinkable", "Probiotic & Functional"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A102531": ["Low & Reduced Fat"], "A900101": ["Bottle"]}}
 {"product_id": "SYN-YOGURT-0094", "run_id": "synth_v5_full", "attributes": {"A100334": ["Probiotic & Functional"], "A101209": ["Coconut"], "A102531": ["Not Applicable"], "A900101": ["Cup"]}}
 {"product_id": "SYN-YOGURT-0099", "run_id": "synth_v5_full", "attributes": {"A100334": ["Drinkable", "Probiotic & Functional"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A102531": ["Low & Reduced Fat"], "A900101": ["Bottle"]}}
 {"product_id": "SYN-YOGURT-0101", "run_id": "synth_v5_full", "attributes": {"A100334": ["Probiotic & Functional", "Traditional"], "A101209": ["Cow"], "A101643": ["Fruit Flavored"], "A102531": ["Low & Reduced Fat"], "A900101": ["Tub"]}}
-{"product_id": "SYN-YOGURT-0106", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Cow"], "A102531": ["Whole"], "A900101": ["Cup"]}}
+{"product_id": "SYN-YOGURT-0106", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek", "Icelandic"], "A101209": ["Coconut"], "A102531": ["Whole"], "A900101": ["Cup"]}}
 {"product_id": "SYN-YOGURT-0115", "run_id": "synth_v5_full", "attributes": {"A100334": ["Probiotic & Functional"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A101644": ["Not Applicable"], "A102531": ["Low & Reduced Fat"], "A900101": ["Tub"]}}
-{"product_id": "SYN-YOGURT-0121", "run_id": "synth_v5_full", "attributes": {"A100334": ["Traditional"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A102531": ["Low & Reduced Fat"], "A900101": ["Tub"]}}
+{"product_id": "SYN-YOGURT-0121", "run_id": "synth_v5_full", "attributes": {"A100334": [], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A102531": ["Low & Reduced Fat"], "A900101": ["Tub"]}}
 {"product_id": "SYN-YOGURT-0130", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A102531": ["Low & Reduced Fat"], "A900101": ["Cup"]}}
 {"product_id": "SYN-YOGURT-0132", "run_id": "synth_v5_full", "attributes": {"A100334": ["Icelandic"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A101644": ["Fruit"], "A102531": ["Low & Reduced Fat"], "A900101": ["Cup"]}}
-{"product_id": "SYN-YOGURT-0133", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A102531": ["Low & Reduced Fat"], "A900101": ["Tube"]}}
-{"product_id": "SYN-YOGURT-0137", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek", "Probiotic & Functional"], "A101209": ["Cow"], "A102531": ["Low & Reduced Fat"], "A900101": ["Tub"]}}
+{"product_id": "SYN-YOGURT-0133", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek", "Probiotic & Functional"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A102531": ["Low & Reduced Fat"], "A900101": ["Tube"]}}
+{"product_id": "SYN-YOGURT-0137", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Cow"], "A102531": ["Low & Reduced Fat"], "A900101": ["Tub"]}}
 {"product_id": "SYN-YOGURT-0138", "run_id": "synth_v5_full", "attributes": {"A100334": ["Traditional"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A102531": ["Fat Free"], "A900101": ["Tub"]}}
 {"product_id": "SYN-YOGURT-0142", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek", "Probiotic & Functional"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A102531": ["Low & Reduced Fat"], "A900101": ["Tub"]}}
 {"product_id": "SYN-YOGURT-0144", "run_id": "synth_v5_full", "attributes": {"A100334": ["Traditional"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A102531": ["Low & Reduced Fat"], "A900101": ["Tub"]}}
 {"product_id": "SYN-YOGURT-0148", "run_id": "synth_v5_full", "attributes": {"A100334": ["Traditional"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A102531": ["Low & Reduced Fat"], "A900101": ["Tub"]}}
-{"product_id": "SYN-YOGURT-0149", "run_id": "synth_v5_full", "attributes": {"A100334": ["French", "Traditional"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A102531": ["Whole"], "A900101": ["Multipack"]}}
-{"product_id": "SYN-YOGURT-0152", "run_id": "synth_v5_full", "attributes": {"A100334": ["Probiotic & Functional"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A102531": ["Low & Reduced Fat"], "A900101": ["Bottle"]}}
-{"product_id": "SYN-YOGURT-0154", "run_id": "synth_v5_full", "attributes": {"A100334": ["Probiotic & Functional", "Traditional"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A102531": ["Low & Reduced Fat"], "A900101": ["Tub"]}}
+{"product_id": "SYN-YOGURT-0149", "run_id": "synth_v5_full", "attributes": {"A100334": ["French", "Traditional"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A102531": ["Whole"], "A900101": ["Cup"]}}
+{"product_id": "SYN-YOGURT-0152", "run_id": "synth_v5_full", "attributes": {"A100334": ["Probiotic & Functional"], "A101209": ["Cow"], "A101643": ["Fruit Flavored"], "A102531": ["Low & Reduced Fat"], "A900101": ["Bottle"]}}
+{"product_id": "SYN-YOGURT-0154", "run_id": "synth_v5_full", "attributes": {"A100334": ["Probiotic & Functional", "Traditional"], "A101209": ["Cow"], "A101643": [], "A102531": ["Low & Reduced Fat"], "A900101": ["Tub"]}}
 {"product_id": "SYN-YOGURT-0157", "run_id": "synth_v5_full", "attributes": {"A100334": ["Drinkable", "Probiotic & Functional"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A102531": ["Low & Reduced Fat"], "A900101": ["Bottle"]}}
 {"product_id": "SYN-YOGURT-0158", "run_id": "synth_v5_full", "attributes": {"A100334": ["Traditional"], "A101209": ["Cow"], "A101643": ["Fruit Flavored"], "A102531": ["Low & Reduced Fat"], "A900101": ["Cup"]}}
-{"product_id": "SYN-YOGURT-0161", "run_id": "synth_v5_full", "attributes": {"A100334": ["Traditional"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A102531": ["Not Applicable"], "A900101": ["Cup"]}}
+{"product_id": "SYN-YOGURT-0161", "run_id": "synth_v5_full", "attributes": {"A100334": ["Probiotic & Functional"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A102531": ["Not Applicable"], "A900101": ["Cup"]}}
 {"product_id": "SYN-YOGURT-0163", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Cow"], "A101643": ["Fruit Flavored"], "A102531": ["Low & Reduced Fat"], "A900101": ["Tub"]}}
-{"product_id": "SYN-YOGURT-0164", "run_id": "synth_v5_full", "attributes": {"A100334": ["Drinkable"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A101644": ["Not Applicable"], "A102531": ["Low & Reduced Fat"], "A900101": ["Bottle"]}}
+{"product_id": "SYN-YOGURT-0164", "run_id": "synth_v5_full", "attributes": {"A100334": ["Drinkable", "Probiotic & Functional"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A101644": ["Not Applicable"], "A102531": ["Low & Reduced Fat"], "A900101": ["Bottle"]}}
 {"product_id": "SYN-YOGURT-0165", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek", "Probiotic & Functional"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A102531": ["Whole"], "A900101": ["Cup"]}}
 {"product_id": "SYN-YOGURT-0167", "run_id": "synth_v5_full", "attributes": {"A100334": ["Probiotic & Functional"], "A101209": ["Coconut"], "A101643": ["Not Applicable"], "A102531": ["Not Applicable"], "A900101": ["Tube"]}}
 {"product_id": "SYN-YOGURT-0174", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Cow"], "A102531": ["Whole"], "A900101": ["Cup"]}}
 {"product_id": "SYN-YOGURT-0175", "run_id": "synth_v5_full", "attributes": {"A100334": ["Probiotic & Functional", "Traditional"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A102531": ["Whole"], "A900101": ["Multipack"]}}
 {"product_id": "SYN-YOGURT-0176", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A102531": ["Whole"], "A900101": ["Cup"]}}
-{"product_id": "SYN-YOGURT-0185", "run_id": "synth_v5_full", "attributes": {"A100334": ["Drinkable", "Probiotic & Functional"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A101644": ["Not Applicable"], "A102531": ["Low & Reduced Fat"], "A900101": ["Tub"]}}
-{"product_id": "SYN-YOGURT-0186", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A900101": ["Cup"]}}
-{"product_id": "SYN-YOGURT-0188", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Cow"], "A101643": ["Fruit Flavored"], "A102531": ["Whole"], "A900101": ["Multipack"]}}
-{"product_id": "SYN-YOGURT-0190", "run_id": "synth_v5_full", "attributes": {"A100334": ["Probiotic & Functional"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A101644": ["Not Applicable"], "A102531": ["Low & Reduced Fat"], "A900101": ["Bottle"]}}
+{"product_id": "SYN-YOGURT-0185", "run_id": "synth_v5_full", "attributes": {"A100334": ["Probiotic & Functional"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A101644": ["Not Applicable"], "A102531": ["Low & Reduced Fat"], "A900101": ["Cup"]}}
+{"product_id": "SYN-YOGURT-0186", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek", "Icelandic"], "A101209": ["Cow"], "A101643": ["Fruit on the Bottom"], "A900101": ["Cup"]}}
+{"product_id": "SYN-YOGURT-0188", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A102531": ["Low & Reduced Fat"], "A900101": ["Multipack"]}}
+{"product_id": "SYN-YOGURT-0190", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek", "Probiotic & Functional"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A101644": ["Not Applicable"], "A102531": ["Low & Reduced Fat"], "A900101": ["Bottle"]}}
 {"product_id": "SYN-YOGURT-0193", "run_id": "synth_v5_full", "attributes": {"A100334": ["Probiotic & Functional"], "A101209": ["Coconut"], "A101643": ["Not Applicable"], "A102531": ["Not Applicable"], "A900101": ["Tub"]}}
 {"product_id": "SYN-YOGURT-0194", "run_id": "synth_v5_full", "attributes": {"A100334": ["Traditional"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A102531": ["Low & Reduced Fat"], "A900101": ["Multipack"]}}
 {"product_id": "SYN-YOGURT-0197", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A101644": ["Not Applicable"], "A102531": ["Low & Reduced Fat"], "A900101": ["Cup"]}}
@@ -372,24 +372,24 @@
 {"product_id": "SYN-YOGURT-0203", "run_id": "synth_v5_full", "attributes": {"A100334": ["Traditional"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A101644": ["Not Applicable"], "A102531": ["Whole"], "A900101": ["Multipack"]}}
 {"product_id": "SYN-YOGURT-0207", "run_id": "synth_v5_full", "attributes": {"A100334": ["Probiotic & Functional"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A900101": ["Cup"]}}
 {"product_id": "SYN-YOGURT-0210", "run_id": "synth_v5_full", "attributes": {"A100334": ["Probiotic & Functional"], "A101209": ["Cow"], "A101643": ["Fruit Flavored"], "A102531": ["Low & Reduced Fat"], "A900101": ["Cup"]}}
-{"product_id": "SYN-YOGURT-0211", "run_id": "synth_v5_full", "attributes": {"A100334": ["French"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A102531": ["Whole"], "A900101": ["Tube"]}}
+{"product_id": "SYN-YOGURT-0211", "run_id": "synth_v5_full", "attributes": {"A100334": ["French"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A102531": ["Low & Reduced Fat"], "A900101": ["Cup"]}}
 {"product_id": "SYN-YOGURT-0215", "run_id": "synth_v5_full", "attributes": {"A100334": ["Probiotic & Functional", "Traditional"], "A101209": ["Cow"], "A101644": ["Not Applicable"], "A102531": ["Low & Reduced Fat"], "A900101": ["Cup"]}}
-{"product_id": "SYN-YOGURT-0216", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A102531": ["Fat Free"], "A900101": ["Tub"]}}
+{"product_id": "SYN-YOGURT-0216", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek", "Probiotic & Functional"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A102531": ["Fat Free"], "A900101": ["Tub"]}}
 {"product_id": "SYN-YOGURT-0228", "run_id": "synth_v5_full", "attributes": {"A100334": ["Traditional"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A101644": ["Not Applicable"], "A102531": ["Fat Free"], "A900101": ["Cup"]}}
 {"product_id": "SYN-YOGURT-0229", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek", "Probiotic & Functional"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A102531": ["Whole"], "A900101": ["Cup"]}}
-{"product_id": "SYN-YOGURT-0233", "run_id": "synth_v5_full", "attributes": {"A100334": ["Probiotic & Functional", "Traditional"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A102531": ["Whole"], "A900101": ["Cup"]}}
-{"product_id": "SYN-YOGURT-0241", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A102531": ["Fat Free"], "A900101": ["Cup"]}}
+{"product_id": "SYN-YOGURT-0233", "run_id": "synth_v5_full", "attributes": {"A100334": ["Probiotic & Functional", "Traditional"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A102531": ["Fat Free"], "A900101": ["Cup"]}}
+{"product_id": "SYN-YOGURT-0241", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek", "Probiotic & Functional"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A102531": ["Fat Free"], "A900101": ["Cup"]}}
 {"product_id": "SYN-YOGURT-0248", "run_id": "synth_v5_full", "attributes": {"A100334": ["Probiotic & Functional"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A101644": ["Not Applicable"], "A102531": ["Low & Reduced Fat"], "A900101": ["Cup"]}}
 {"product_id": "SYN-YOGURT-0249", "run_id": "synth_v5_full", "attributes": {"A100334": ["Probiotic & Functional", "Traditional"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A101644": ["Granola"], "A102531": ["Low & Reduced Fat"], "A900101": ["Tub"]}}
 {"product_id": "SYN-YOGURT-0252", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek", "Probiotic & Functional"], "A101209": ["Cow"], "A101643": ["Fruit Flavored"], "A102531": ["Whole"], "A900101": ["Cup"]}}
-{"product_id": "SYN-YOGURT-0253", "run_id": "synth_v5_full", "attributes": {"A100334": ["Probiotic & Functional"], "A101209": ["Cashew"], "A101643": ["Fruit Flavored"], "A102531": ["Not Applicable"], "A900101": ["Cup"]}}
+{"product_id": "SYN-YOGURT-0253", "run_id": "synth_v5_full", "attributes": {"A100334": ["Probiotic & Functional"], "A101209": ["Coconut"], "A101643": ["Fruit Flavored"], "A102531": ["Not Applicable"], "A900101": ["Cup"]}}
 {"product_id": "SYN-YOGURT-0256", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A102531": ["Low & Reduced Fat"], "A900101": ["Cup"]}}
-{"product_id": "SYN-YOGURT-0258", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Cow"], "A102531": ["Fat Free"], "A900101": ["Multipack"]}}
+{"product_id": "SYN-YOGURT-0258", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Coconut"], "A102531": ["Fat Free"], "A900101": ["Multipack"]}}
 {"product_id": "SYN-YOGURT-0262", "run_id": "synth_v5_full", "attributes": {"A100334": ["Icelandic", "Probiotic & Functional"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A102531": ["Whole"], "A900101": ["Multipack"]}}
 {"product_id": "SYN-YOGURT-0263", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Cow"], "A102531": ["Low & Reduced Fat"], "A900101": ["Tub"]}}
 {"product_id": "SYN-YOGURT-0266", "run_id": "synth_v5_full", "attributes": {"A100334": ["Drinkable", "Traditional"], "A101209": ["Cow"], "A101643": ["Fruit Flavored"], "A102531": ["Low & Reduced Fat"], "A900101": ["Bottle"]}}
 {"product_id": "SYN-YOGURT-0269", "run_id": "synth_v5_full", "attributes": {"A100334": ["French"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A900101": ["Multipack"]}}
-{"product_id": "SYN-YOGURT-0272", "run_id": "synth_v5_full", "attributes": {"A100334": ["Traditional"], "A101209": ["Cow"], "A101643": ["Fruit Flavored"], "A102531": ["Low & Reduced Fat"], "A900101": ["Cup"]}}
+{"product_id": "SYN-YOGURT-0272", "run_id": "synth_v5_full", "attributes": {"A100334": ["Traditional"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A102531": ["Low & Reduced Fat"], "A900101": ["Cup"]}}
 {"product_id": "SYN-YOGURT-0273", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A102531": ["Fat Free"], "A900101": ["Cup"]}}
 {"product_id": "SYN-YOGURT-0280", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A102531": ["Low & Reduced Fat"], "A900101": ["Cup"]}}
 {"product_id": "SYN-YOGURT-0287", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A102531": ["Low & Reduced Fat"], "A900101": ["Tub"]}}
@@ -398,18 +398,18 @@
 {"product_id": "SYN-YOGURT-0292", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A102531": ["Whole"], "A900101": ["Tube"]}}
 {"product_id": "SYN-YOGURT-0293", "run_id": "synth_v5_full", "attributes": {"A100334": ["Traditional"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A101644": ["Not Applicable"], "A102531": ["Whole"], "A900101": ["Cup"]}}
 {"product_id": "SYN-YOGURT-0296", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek", "Probiotic & Functional"], "A101209": ["Cow"], "A102531": ["Fat Free"], "A900101": ["Multipack"]}}
-{"product_id": "SYN-YOGURT-0297", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek", "Probiotic & Functional"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A102531": ["Not Applicable"], "A900101": ["Cup"]}}
-{"product_id": "SYN-YOGURT-0301", "run_id": "synth_v5_full", "attributes": {"A100334": ["Drinkable", "Probiotic & Functional"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A102531": ["Low & Reduced Fat"], "A900101": ["Bottle"]}}
+{"product_id": "SYN-YOGURT-0297", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A102531": ["Not Applicable"], "A900101": ["Cup"]}}
+{"product_id": "SYN-YOGURT-0301", "run_id": "synth_v5_full", "attributes": {"A100334": ["Drinkable"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A102531": ["Low & Reduced Fat"], "A900101": ["Bottle"]}}
 {"product_id": "SYN-YOGURT-0305", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Cow"], "A101643": ["Fruit Flavored"], "A102531": ["Fat Free"], "A900101": ["Cup"]}}
-{"product_id": "SYN-YOGURT-0308", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A900101": ["Cup"]}}
-{"product_id": "SYN-YOGURT-0309", "run_id": "synth_v5_full", "attributes": {"A100334": ["Probiotic & Functional", "Traditional"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A102531": ["Low & Reduced Fat"], "A900101": ["Multipack"]}}
+{"product_id": "SYN-YOGURT-0308", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek", "Icelandic"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A900101": ["Cup"]}}
+{"product_id": "SYN-YOGURT-0309", "run_id": "synth_v5_full", "attributes": {"A100334": ["Probiotic & Functional"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A102531": ["Low & Reduced Fat"], "A900101": ["Multipack"]}}
 {"product_id": "SYN-YOGURT-0323", "run_id": "synth_v5_full", "attributes": {"A100334": ["Traditional"], "A101209": ["Cow"], "A101643": ["Fruit on the Bottom"], "A102531": ["Whole"], "A900101": ["Cup"]}}
-{"product_id": "SYN-YOGURT-0325", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek", "Probiotic & Functional"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A102531": ["Whole"], "A900101": ["Multipack"]}}
+{"product_id": "SYN-YOGURT-0325", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A102531": ["Whole"], "A900101": ["Multipack"]}}
 {"product_id": "SYN-YOGURT-0328", "run_id": "synth_v5_full", "attributes": {"A100334": ["Probiotic & Functional"], "A101209": ["Coconut"], "A101643": ["Not Applicable"], "A101644": ["Fruit"], "A102531": ["Not Applicable"], "A900101": ["Multipack"]}}
 {"product_id": "SYN-YOGURT-0331", "run_id": "synth_v5_full", "attributes": {"A100334": ["French", "Probiotic & Functional", "Traditional"], "A101209": ["Cow"], "A101643": ["Fruit Flavored"], "A102531": ["Whole"], "A900101": ["Cup"]}}
 {"product_id": "SYN-YOGURT-0334", "run_id": "synth_v5_full", "attributes": {"A100334": ["Traditional"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A101644": ["Cookie"], "A102531": ["Whole"], "A900101": ["Cup"]}}
 {"product_id": "SYN-YOGURT-0335", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Cow"], "A101643": ["Fruit Flavored"], "A101644": ["Not Applicable"], "A102531": ["Fat Free"], "A900101": ["Cup"]}}
-{"product_id": "SYN-YOGURT-0337", "run_id": "synth_v5_full", "attributes": {"A100334": ["Probiotic & Functional", "Traditional"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A102531": ["Not Applicable"], "A900101": ["Cup"]}}
-{"product_id": "SYN-YOGURT-0344", "run_id": "synth_v5_full", "attributes": {"A100334": ["Traditional"], "A101209": ["Coconut"], "A101643": ["Fruit Flavored"], "A102531": ["Low & Reduced Fat"], "A900101": ["Bottle"]}}
-{"product_id": "SYN-YOGURT-0346", "run_id": "synth_v5_full", "attributes": {"A100334": ["Drinkable"], "A900101": ["Tub"]}}
-{"product_id": "SYN-YOGURT-0349", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek"], "A101209": ["Cow"], "A101643": ["Fruit Flavored"], "A102531": ["Low & Reduced Fat"], "A900101": ["Tub"]}}
+{"product_id": "SYN-YOGURT-0337", "run_id": "synth_v5_full", "attributes": {"A100334": ["Probiotic & Functional"], "A101209": ["Cow"], "A101643": ["Not Applicable"], "A102531": ["Low & Reduced Fat"], "A900101": ["Cup"]}}
+{"product_id": "SYN-YOGURT-0344", "run_id": "synth_v5_full", "attributes": {"A100334": ["Traditional"], "A101209": ["Coconut"], "A101643": ["Fruit Flavored"], "A102531": ["Fat Free"], "A900101": ["Bottle"]}}
+{"product_id": "SYN-YOGURT-0346", "run_id": "synth_v5_full", "attributes": {"A100334": [], "A900101": ["Tub"]}}
+{"product_id": "SYN-YOGURT-0349", "run_id": "synth_v5_full", "attributes": {"A100334": ["Greek", "Probiotic & Functional"], "A101209": ["Cow"], "A101643": ["Fruit Mixed In"], "A102531": ["Low & Reduced Fat"], "A900101": ["Tub"]}}
