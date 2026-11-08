@@ -1,5 +1,15 @@
 # Brown Ballers solution
 
+## Judging
+
+**Performance (65%).** This portion is the hold-out quality score Q, exact-match micro-F1. Composite scores and resource costs are not included. Q is the `q` field in `submission/result.json`, produced by the unmodified scorer from [tamu-2026-ci](https://gitlab.com/mlmodels/tamu-2026-shared/tamu-2026-ci/).
+
+**Learning and experimental evidence (35%).** The solution improves by updating reusable skills: the perceptron weights, the feature pack, the margin, the epoch, and which readings to keep. It does not update foundation-model parameters. The before-and-after results are on the experiment validation split, in the table below and in `submission/evidence.json`. The feature detectors and the wording of the candidate readings are manual. The weights and the keep-or-drop decision are automatic.
+
+The starter `ParticipantAgent` interface is the one this code implements. The full harness is not used for this run. Existing model, tool, and data limits still apply: no foundation-model weight update, and learning reads the experiment package.
+
+The bank is saved before the hold-out file is opened, and final inference does not learn. Hold-out records are prediction inputs only. Each record has `labels` removed before it reaches the agent. Training, pack choice, margins, epochs, and the keep-or-drop tests use the experiment file. The number reported below is the scorer's Q, with the counts the scorer printed.
+
 ## What was submitted
 
 - Final code: `src/agent.py` and `src/learner.py`
